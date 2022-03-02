@@ -6259,7 +6259,7 @@ local TestText = "  ❲ Owner Groups ❳\n— — — — — — — — —\n 
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳', url = "https://t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›', url = "https://t.me/fhfnxc"}
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -6665,7 +6665,7 @@ keyboard.inline_keyboard = {
 {text = ': مره اخرى 🔃.', callback_data = IdUser..'/Re@'},
 },
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳',url="t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›',url="t.me/fhfnxc"}
 },
 }
 local msg_id = msg.id/2097152/0.5
@@ -6676,7 +6676,7 @@ Abs = math.random(2,140);
 local Text ='*᥀︙تم اختيار متحركه لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳',url="t.me/fhfnxc"}},
+{{text = '‹ : TeAM MalloRca : ›',url="t.me/fhfnxc"}},
 }
 local msg_id = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token..'/sendanimation?chat_id=' .. msg.chat_id .. '&animation=https://t.me/GifDavid/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -6686,7 +6686,7 @@ Abs = math.random(2,140);
 local Text ='*᥀︙تم اختيار الشعر لك فقط*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳',url="t.me/fhfnxc"}},
+{{text = '‹ : TeAM MalloRca : ›',url="t.me/fhfnxc"}},
 }
 local msg_id = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/L1BBBL/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -6696,7 +6696,7 @@ Abs = math.random(2,140);
 local Text ='*᥀︙تم اختيار الميمز لك فقط*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳',url="t.me/fhfnxc"}},
+{{text = '‹ : TeAM MalloRca : ›',url="t.me/fhfnxc"}},
 }
 local msg_id = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/remixsource/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -6707,7 +6707,7 @@ local Text ='*᥀︙تم اختيار ريمكس لك*'
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳', url = "https://t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›', url = "https://t.me/fhfnxc"}
 },
 }
 local msg_id = msg.id/2097152/0.5
@@ -6719,7 +6719,7 @@ local Text ='*᥀︙تم اختيار الفلم لك*'
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳', url = "https://t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›', url = "https://t.me/fhfnxc"}
 },
 }
 local msg_id = msg.id/2097152/0.5
@@ -6731,7 +6731,7 @@ local Text ='*᥀︙تم اختيار انمي لك*'
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳', url = "https://t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›', url = "https://t.me/fhfnxc"}
 },
 }
 local msg_id = msg.id/2097152/0.5
@@ -6742,7 +6742,7 @@ Abs = math.random(2,140);
 local Text ='*᥀︙تم اختيار الاغنيه لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳',url="t.me/fhfnxc"}},
+{{text = '‹ : TeAM MalloRca : ›',url="t.me/fhfnxc"}},
 }
 local msg_id = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/lDIDIl/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -6753,7 +6753,7 @@ local Text ='*᥀︙تم اختيار صور*'
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳', url = "https://t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›', url = "https://t.me/fhfnxc"}
 },
 }
 local msg_id = msg.id/2097152/0.5
@@ -9790,7 +9790,7 @@ local TestText = "❲ Kdkkkd 𝖲𝗈𝗎𝗋𝖼𝖾 ❳\n— — — — — �
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳', url = "https://t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›', url = "https://t.me/fhfnxc"}
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -9803,7 +9803,7 @@ keyboardd.inline_keyboard = {
 {text = '❲ 𝖼𝗈𝖽𝖾𝗋 ❳', url = "https://t.me/Zxooxf"}
 },
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳', url = "https://t.me/fhfnxc"},
+{text = '‹ : TeAM MalloRca : ›', url = "https://t.me/fhfnxc"},
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -9825,7 +9825,7 @@ local TestText = "❲ Developers Bot ❳\n— — — — — — — — —\n�
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳', url = "https://t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›', url = "https://t.me/fhfnxc"}
 },
 }
 local msg_id = msg.id/2097152/0.5 
@@ -12176,7 +12176,7 @@ keyboard.inline_keyboard = {
 {text = ': مره اخرى 🔃.', callback_data = IdUser..'/Re@'},
 },
 {
-{text = '❲ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐈𝐀𝐂𝐊 ❳',url="t.me/fhfnxc"}
+{text = '‹ : TeAM MalloRca : ›',url="t.me/fhfnxc"}
 },
 }
 https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. ChatId .. '&voice=https://t.me/TEAMSUL/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
