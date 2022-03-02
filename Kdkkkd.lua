@@ -128,9 +128,9 @@ end
 function Controllerbanall(ChatId,UserId)
 Status = 0
 DevelopersQ = Redis:sismember(TheKdkkkd.."Kdkkkd:DevelopersQ:Groups",UserId) 
-if UserId == 5115522056 then
+if UserId == 1960752989 then
 Status = true
-elseif UserId == 5115522056 then
+elseif UserId == 1960752989 then
 Status = true
 elseif UserId == Sudo_Id then  
 Status = true
