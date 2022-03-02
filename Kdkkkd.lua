@@ -9786,7 +9786,7 @@ Bio = ''
 end
 local photo = LuaTele.getUserProfilePhotos(UserId_Info.id)
 if photo.total_count > 0 then
-local TestText = "  ❲ Kdkkkd 𝖲𝗈𝗎𝗋𝖼𝖾 ❳\n— — — — — — — — —\n ᥀︙*Dev Name* :  ["..UserInfo.first_name.."](tg://user?id="..UserId_Info.id..")\n᥀︙*Dev Bio* : [❲ "..Bio.." ❳]"
+local TestText = "❲ Kdkkkd 𝖲𝗈𝗎𝗋𝖼𝖾 ❳\n— — — — — — — — —\n᥀︙*Dev Name* :  ["..UserInfo.first_name.."](tg://user?id="..UserId_Info.id..")\n᥀︙*Dev Bio* : [❲ "..Bio.." ❳]"
 keyboardd = {} 
 keyboardd.inline_keyboard = {
 {
